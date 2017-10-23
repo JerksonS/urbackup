@@ -1,4 +1,4 @@
 #!/usr/bin/with-contenv bash
 
 exec \
-        s6-setuidgid jjs /usr/bin/urbackup
+        s6-setuidgid jjs /usr/bin/urbackupsrv
